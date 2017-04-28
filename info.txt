@@ -1,0 +1,18 @@
+Instalar
+- gulp
+- browserify
+- node
+- mySql
+- php
+- ngRoute (Angular Route)
+
+
+Iniciar o projeto
+npm install (instalar as dependências do package.json)
+npm install --save-dev angular-route
+
+cd documents/programacao/angular-1x/agenda
+gulp
+
+cd documents/programacao/angular-1x/agenda/server
+php -S localhost:8080 post.php
